@@ -82,9 +82,9 @@ ul {
   margin-bottom: 5px;
 }
 footer {
-  width: 90vh;
+  width: 90%;
   margin: auto;
-  margin-top: 90%;
+  margin-top: 93vh;
 }
 .footer-content {
   display: flex;
