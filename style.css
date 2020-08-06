@@ -126,7 +126,7 @@ footer {
   .google-mobile {
     display: block;
     padding: 30px 20px 20px 20px;
-    font-size: 25px;
+    font-size: 27px;
     font-weight: 500;
     font-family: 'Josefin Sans', sans-serif;
     display: flex;
@@ -134,7 +134,7 @@ footer {
     justify-content: space-between;
   }
   .show-links {
-    width: 250px;
+    width: 280px;
     height: 100vh;
     background-color: white;
     padding-left: 0;
@@ -172,7 +172,7 @@ footer {
   }
   .show-links .item-link span {
     color: rgb(146, 146, 146);
-    font-size: 15px;
+    font-size: 22px;
     font-weight: bold;
   }
   .item-link:hover {
